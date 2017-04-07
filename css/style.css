@@ -1,0 +1,42 @@
+body {
+  
+  background: #fcd68b;
+}
+
+.header {
+  
+  color: #0c1915;
+  margin-bottom: 5%;
+}
+
+.button {
+ 
+  background: transparent;
+  border: none;
+  outline: 0;
+  
+  color:#517a8b;
+  font-size: 150%;
+  margin-bottom: 10px;
+}
+
+.button:hover {
+  
+  color: #172540;
+}
+
+.listitem {
+  
+  background-color: #eef3f7;
+  text-align:left;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.3);
+}
+
+.listitem:hover {
+  background-color: #a9b4b8;
+}
+
+.text-color {
+  color: #517a8b;  
+}
